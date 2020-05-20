@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963aaa1ae868b0140b6456db09120440, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  LicenseKey: z9K0f8vBrGPToNwreXLpPs2hWugCpn+0vwOcBP/gglTL8IRJ//2TBLCxgUf7+o9c7+GIH72mp0Hn8o5KpPCIS6i/xUvr4JND+NiCX8P3xRy7v8VK4/CCSPn2lASwyJwE6OaJQub2rkL5sd19qPCIS6T2n0fn44tDpPSOSODyiwSmscV7prGRR/j6hkj+4MUc0bGFR/n6hATXv8VW5vKTQOXhilWoqbwE/fqJQuXklASmsYpH6bG6Cqj2n1bj4YJy4/6Cdf7yilaoqYlT5v/LBOPgq0np8osEsPWGSvn2mgrxsYVT5PeLQ8P3lASwyMVF5f7JQ/Lyilbm9slB4/2NR+axugqo5YZU4/KJUvmx3X2o8YZV4/DFe6axl0rr54FJ+P6UBLDIxUfk95VJ4/fFe6axgl76+pVD3vqKQ9nnhkv6sd1I//+LCqj6lGrl8IZKqKmBR+bgglum6MVE//2DSu/ag1WoqbwEqM7LBPzylU/r/ZNVqKm8BOjylE/psboKqOOLR/71iFTn4MUc0bGOSfmxugqo9p9W4+GCcuP+gnX+8opWqKmJU+b/ywTj4KtJ6fKLBLD1hkr59pp79w+l940jo5zIU2dP2HClwOn0c+Z9/Wnt03KFO4tpB1VhIzxurBOrp33l8ZuPj4qUsYQfyhBiEDFBDZ05WJVGiRmcVRYbHtZdYMCNSXTHZVij693DIyHTE3nUamNekAty6iOOuaMwpnQBRmJg2moOW2E1o2SGU26HBSKFJ0ocrR4115iL9VY7AcAYX8e/urLmb2SsZaZTMWQF0p/RKJ2mZf33Wy3MnEvXW9sbfGx2ajbqTW7LQBkoEF0agKYyMlWy8OqrQ9mXMrTiw7Oiq1JWV+T/zZWA+1VA0MJ9zmML0/WCJekLV51J1cyz8VOPJyqqYvRiitnt00OhxYhDM4qT5yY=
+  GizmoConfig:
+    ImageTarget:
+      EnableImageFile: 1
+      EnableTargetDataFile: 1
+      EnableTarget: 1
+    ObjectTarget:
+      Enable: 1
+  GlobalCloudRecognizerServiceConfig:
+    ServerAddress: 55083dede64c16d9ebf14f4a79555872.cn1.crs.easyar.com:8080
+    APIKey: 541ef7a489ba640825c8747e5ba72b96
+    APISecret: 9ed2276e911cebb995aa3df13d64b455668f9ab20651c211c3f7b5e01f8515c9
+    CloudRecognizerAppID: 703c3bee045b0f40488d8979be7edd6b
