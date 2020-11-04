@@ -16,5 +16,3 @@ Menjaga Kesehatannya Dengan Metode Augmented Reality.
 ### Marker/Penanda AR 
 Link : [marker](https://www.dropbox.com/s/pmk83i0qfeh7lrh/gambar_ginjal.png?dl=0)
 
-### Penulisan penelitian
-Link : [Penulisan](https://www.dropbox.com/s/lgu46q5f2n8bayk/Penulisan_Faqih_cetak.pdf?dl=0)
